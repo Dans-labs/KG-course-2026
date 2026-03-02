@@ -11,7 +11,7 @@ Add the dereferenceable URI that identifies you in your published RDF data so we
 | Daan Janssen | |
 | Jan van Mansum | |
 | Joke Pol | |
-| Laura Huis in 't Veld | |
+| Laura Huis in 't Veld |`https://laurahuisintveld.github.io/KnowledgeGraph/data.ttl` |
 | Laurens Tobias | `https://laurenstobias.com/#laurens-tobias` |
 | Linda Reijnhoudt | |
 | Mike Priddy | |
