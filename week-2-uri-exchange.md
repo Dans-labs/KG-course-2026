@@ -15,7 +15,7 @@ Add the dereferenceable URI that identifies you in your published RDF data so we
 | Laurens Tobias | `https://laurenstobias.com/#laurens-tobias` |
 | Linda Reijnhoudt | |
 | Mike Priddy | |
-| Paul Boon | |
+| Paul Boon | `https://paulboon.github.io/knowledgegraph/employee-paulboon.ttl` |
 | Reggie Cushing | |
 | Rene van Horik | |
 | Wilko Steinhoff | |
