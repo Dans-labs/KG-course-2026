@@ -13,7 +13,7 @@ Add the dereferenceable URI that identifies you in your published RDF data so we
 | Jan van Mansum | |
 | Jeroen de Meester | |
 | Joke Pol | `https://dans-knaw-jp.github.io/IKG/lab2/data.ttl` |
-| Laura Huis in 't Veld |`https://laurahuisintveld.github.io/KnowledgeGraph/data.ttl` |
+| Laura Huis in 't Veld |`https://laurahuisintveld.github.io/KnowledgeGraph/data.ttl#LauraHuisintveld` |
 | Laurens Tobias | `https://laurenstobias.com/#laurens-tobias` |
 | Linda Reijnhoudt | |
 | Mike Priddy | |
