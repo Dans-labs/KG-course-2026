@@ -5,7 +5,7 @@ Add the dereferenceable URI that identifies you in your published RDF data so we
 | Name | Person URI |
 |------|------------|
 | Alessandra Polimeno | |
-| Alex Brandsen | |
+| Alex Brandsen | `https://alexbrandsen.nl/kg/data/`|
 | Ali Sheikhi | |
 | André Castro | |
 | Daan Janssen | |
