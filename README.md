@@ -29,4 +29,7 @@
 * [EMBL-EBI Ontology Lookup Service](https://www.ebi.ac.uk/ols4/)
 * [https://ontobee.org/](https://ontobee.org/) - more focused on Natural & Engineering Sciences domains
 
+# Books
+
+* "Learning SPARQL: Querying and Updating with SPARQL 1.1", DuCharme, Bob. http://www.learningsparql.com.
 
