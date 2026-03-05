@@ -19,6 +19,6 @@ Add the dereferenceable URI that identifies you in your published RDF data so we
 | Mike Priddy | |
 | Minh Tran | |
 | Paul Boon | `https://paulboon.github.io/knowledgegraph/employee-paulboon.ttl` |
-| Reggie Cushing | |
+| Gimli | `https://recap.github.io/knowledge_graph_labs/gimli.ttl` |
 | Rene van Horik | |
 | Wilko Steinhoff | `https://drsteiner.github.io/knowledgegraph/person.ttl` |
