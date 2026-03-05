@@ -5,6 +5,10 @@
 
 
 ## Tools
+**client-side tools**
+
+* https://query.comunica.dev/ (repo:https://github.com/comunica/comunica) A knowledge graph querying framework for JavaScript 
+
 
 **Python Tools**
 
