@@ -4,7 +4,7 @@ Add the dereferenceable URI that identifies you in your published RDF data so we
 
 | Name | Person URI |
 |------|------------|
-| Alessandra Polimeno | |
+| Alessandra Polimeno | https://aapolimeno.github.io/ |
 | Alex Brandsen | `https://alexbrandsen.nl/kg/data/`|
 | Ali Sheikhi |`https://github.com/aliassheikh/KnowledgeGraph/blob/main/data.ttl` |
 | André Castro | |
