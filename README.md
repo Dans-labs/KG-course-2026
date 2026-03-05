@@ -1,5 +1,9 @@
 # Knowledge Graph Course - 2026: Resources/Notes/Tips & Tricks
 
+## Labs files
+* [week-2-uri-exchange.md](week-2-uri-exchange.md)
+
+
 ## Tools
 
 **Python Tools**
