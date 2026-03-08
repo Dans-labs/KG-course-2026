@@ -6,7 +6,7 @@ Add the dereferenceable URI that identifies you in your published RDF data so we
 |------|------------|
 | Alessandra Polimeno | https://aapolimeno.github.io/ |
 | Alex Brandsen | `https://alexbrandsen.nl/kg/data/`|
-| Ali Sheikhi |`https://github.com/aliassheikh/KnowledgeGraph/blob/main/data.ttl` |
+| Ali Sheikhi |`https://aliassheikh.github.io/KnowledgeGraph/vocab.ttl` |
 | André Castro | |
 | Daan Janssen | |
 | Digna van Nielen | |
